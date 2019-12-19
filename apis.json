@@ -1,0 +1,75 @@
+{
+    "name": "Instapaper",
+    "description": "A simple tool for saving web pages to read later on your iPhone, iPad, Android, computer, or Kindle.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1698-instapaper.jpg",
+    "tags": [
+        "api provider",
+        "bookmarking",
+        "have api",
+        "links",
+        "reading"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/instapaper\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Instapaper",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1698-instapaper.jpg",
+            "humanURL": "http:\/\/www.instapaper.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/instapaper-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/instapaper-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/www.instapaper.com\/api\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.instapaper.com\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/instapaper"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/instapaper"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.instapaper.com\/api\/simple"
+        },
+        {
+            "type": "Email",
+            "url": "support@help.instapaper.com"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/www.instapaper.com\/premium"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/instapaper"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.instapaper.com"
+        }
+    ]
+}
